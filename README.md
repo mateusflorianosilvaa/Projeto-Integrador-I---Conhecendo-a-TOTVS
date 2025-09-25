@@ -20,7 +20,7 @@
 </p>
 
 ***
-  Este projeto visa atender á demanda interdisciplinar do curso superior de **Ciência de Dados para Negócios**, oferecido pela **FATEC VOTORANTIM/SP**, ao qual, toda a turma do 1° Período (2° Sem/2025), precisou se separar em grupos de até 6 pessoas, e escolher uma empresa listada na **Bolsa de Valores Brasileira (B3)** para conhecer o negócio, utilizando a extração e análise dos dados públicos da empresa.
+  Este projeto visa atender a demanda interdisciplinar do curso superior de **Ciência de Dados para Negócios**, oferecido pela **FATEC VOTORANTIM/SP**, ao qual, foi solicitado à turma do 1° Período (2° Sem/2025), agrupar-sem em grupos até 6 integrantes, a fim de selecionar uma empresa listada na **Bolsa de Valores Brasileira (B3)** para conhecer o negócio, utilizando a extração e análise dos dados públicos da empresa.
 
    Visto que estamos realizando uma graduação tecnológica, escolhemos a maior empresa de tecnologia do **Brasil** para desenvolvimento do projeto. 
 
@@ -86,7 +86,7 @@ Para o desenvolvimento, as habilidades e técnicas aplicadas são:
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/PAULO.png?raw=true" width="90px;" height="90px;" alt="Paulo"/><br>
         <sub>
-          <b>Paulo Verri</b>
+          <b>Paulo Rufino</b>
               <td align="center">
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/SABRINA.png?raw=true" width="100px;" height="90px;" alt="Sabrina"/><br>
