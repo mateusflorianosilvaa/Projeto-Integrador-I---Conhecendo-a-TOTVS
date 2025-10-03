@@ -57,7 +57,7 @@ Para o desenvolvimento, as habilidades e técnicas aplicadas são:
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/ANDERSON.png?raw=true" width="100px;" height="90px;" alt="Anderson"/><br>
         <sub>
-          <b>Anderson Mattos</b>
+          <b>Anderson</b>
         </sub>
       </a>
     </td>
@@ -65,33 +65,25 @@ Para o desenvolvimento, as habilidades e técnicas aplicadas são:
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/BRUNO.png?raw=true" width="100px;" height="90px;" alt="Bruno"/><br>
         <sub>
-          <b>Bruno Vitorino</b>
+          <b>Bruno</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/GEOVANE.png?raw=true" width="100px;" height="90px;" alt="Geovane"/><br>
+        <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/MATEUS.png?raw=true" width="90px;" height="90px;" alt="Mateus"/><br>
         <sub>
-          <b>Geovane Borgato</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/MATEUS.png?raw=true" width="100px;" height="90px;" alt="Mateus"/><br>
-        <sub>
-          <b>Mateus Silva</b>
+          <b>Mateus</b>
               <td align="center">
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/PAULO.png?raw=true" width="90px;" height="90px;" alt="Paulo"/><br>
         <sub>
-          <b>Paulo Verri</b>
+          <b>Paulo</b>
               <td align="center">
       <a href="#">
-        <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/SABRINA.png?raw=true" width="100px;" height="90px;" alt="Sabrina"/><br>
+        <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/SABRINA.png?raw=true" width="90px;" height="90px;" alt="Sabrina"/><br>
         <sub>
-          <b>Sabrina Vitorino</b>
+          <b>Sabrina</b>
         </sub>
       </a>
     </td>
