@@ -78,11 +78,7 @@ Para o desenvolvimento, as habilidades e técnicas aplicadas são:
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/PAULO.png?raw=true" width="90px;" height="90px;" alt="Paulo"/><br>
         <sub>
-<<<<<<< HEAD
           <b>Paulo</b>
-=======
-          <b>Paulo Rufino</b>
->>>>>>> ef2a3573d55916ee23dc64b2bfa1d2baa5b1e913
               <td align="center">
       <a href="#">
         <img src="https://github.com/mateusflorianosilvaa/Projeto-Integrador-I---Conhecendo-a-TOTVS/blob/main/imagens/SABRINA.png?raw=true" width="90px;" height="90px;" alt="Sabrina"/><br>
